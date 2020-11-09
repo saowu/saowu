@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saowu&show_icons=true&theme=radical)
-
 > 愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者流的话，能做事的做事，能发声的发声，有一分热，发一分光，就令萤火一般，也可以在黑暗里发一点光，不必等候炬火，此后如竟没有炬火，我便是唯一的光。——鲁迅《热风，随感录四十一》
 
 ## 🏠 关于本站
@@ -23,4 +20,4 @@
 -  During school,I have won the competition awards and many project internship experiences
 ```
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saowu)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saowu&show_icons=true&theme=radical)
