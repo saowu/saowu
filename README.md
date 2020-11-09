@@ -20,4 +20,4 @@
 ```
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saowu&show_icons=true&theme=flag-india)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saowu&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
