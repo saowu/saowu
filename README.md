@@ -19,5 +19,5 @@
 -  During school,I have won the competition awards and many project internship experiences
 ```
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saowu&show_icons=true&theme=flag-india)
+![saowu's github stats](https://github-readme-stats.vercel.app/api?username=saowu&show_icons=true&theme=flag-india)
 
