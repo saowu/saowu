@@ -7,14 +7,14 @@
 
 ## 👨‍💻 是谁
 
-- 😏本博主是一个本博主母校的一名`大四学生 `、`准Java程序员`、`准Python程序员`。
+- 😏本博主是`Java程序员`。
 - ✊从2016年到如今的技术积累过程中，不断的入门，又不断的放弃，隔天再忿忿的捡起。在这个光怪陆离的世界中，依旧还是个不起眼的菜鸟，希望以后能保持平常心，继续坚持学习，迎接未来！！！
 
 ## ⛹ 技术栈   
 ```text
 -  Java,Python,SQL,JavaScript
 -  Linux system administration and command line proficiency
--  Docker,Spring Boot, Git,Flask,Django
+-  Docker,Spring Boot, Git,Flask,Django,kubernetes 
 -  Algorithms and Data Structures
 -  During school,I have won the competition awards and many project internship experiences
 ```
