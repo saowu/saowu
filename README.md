@@ -12,7 +12,7 @@
 
 ## ⛹ 技术栈   
 ```text
--  Java,Python,SQL,JavaScript
+-  Java,SQL,JavaScript,Vue,ElementUI
 -  Linux system administration and command line proficiency
 -  Docker,Spring Boot, Git,Flask,Django,kubernetes 
 -  Algorithms and Data Structures
