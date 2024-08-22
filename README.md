@@ -12,9 +12,9 @@
 
 ## ⛹ 技术栈   
 ```text
--  Java,SQL,JavaScript,Vue,ElementUI,Golang
+-  Java,JavaScript,Vue,ElementUI,Golang
 -  Linux system administration and command line proficiency
--  Docker,Spring Boot, Git,Flask,Django,kubernetes 
+-  Docker,Spring Boot,Git,kubernetes
 -  Algorithms and Data Structures
 -  During school,I have won the competition awards and many project internship experiences
 ```
